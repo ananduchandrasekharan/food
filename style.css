@@ -1,0 +1,208 @@
+/* .title{
+    background-color: aqua;
+    width: 100%;
+    display: inline-block;
+    padding-left: 30px;
+    
+    
+} */
+
+
+/* .navbar{
+    margin: 10px;
+    padding: 20px;
+    display: inline; */
+
+}
+
+
+
+.navbar h2{
+    font-family: 'Itim', cursive;
+
+    /* height: 100vh; */
+    /* width: 100%; */
+ 
+/* background-size: cover; */
+/* background-position: center; */
+}
+
+.tea{
+    background-image:  url('https://relishdelish.ca/wp-content/uploads/2021/09/IMG_8674-800x840.jpeg');
+     width: 100%;
+     height: 30vh;
+     background-position: center;
+    background-size: cover ;
+    
+    /* display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 10% ; */
+}
+
+.navbar h1{
+    
+        font-family: 'Itim', cursive;
+        font-size: 35px;
+        text-shadow: rgba(255,255,255,0.89) 0px 0px 36px;
+
+margin-right: 50%;
+
+font-weight: 1000;  
+text-shadow: rgb(255, 100, 0) 10px 0px 44px;
+text-shadow: 0 0 3px #FF0000, 0 0 5px #ffffff;
+
+}
+
+.tea{ display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    padding-left: 2%;
+    padding-right: 10%
+
+
+}
+   
+ul li{
+    display: inline-flex;
+    padding-top: 40%;
+
+}
+
+ul li a{text-decoration: none;
+    border: 100px;
+    box-shadow: #FF0000;
+    border-color: #FF0000;
+
+}
+
+li a{font-size: 25px;
+display: flex;
+justify-content: space-between;
+}
+
+li a:hover{
+    /* color: #FF0000;
+    text-shadow: rgba(255,162,0,0.9) 0px 0px 39px;
+    background-color: rgb(168, 168, 255); */
+    transform: scale(1.1);
+    text-shadow: rgb(255, 0, 0) 0px 0px 10px;
+    color: black;
+
+
+cursor: pointer
+
+}
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+.food img{
+height: 250px;
+    width: 250px;
+
+}
+
+/* .content{padding-left: 50px;
+margin-right: 20px;
+margin-bottom: 60px;
+} */
+/* background-color: aquamarine; */
+/* border-radius: 10px;
+
+border-color: black;
+justify-content: space-between;} */
+
+
+.content{
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+/* .food{
+    border: 20px;
+    height: 100px;
+    width: 70px; */
+/* position: relative; */
+/* display: flex;
+flex-direction: row; */
+    /*  
+    justify-content:space-evenly; */
+
+.food{border-radius: 20px;
+
+    border: 30px;
+    width: 25%;
+border-color: aqua;
+
+
+}
+
+img{
+    margin-left: 30px;
+    padding-left: 30px;
+    border-radius: 10px;
+    }
+
+.food{
+    padding:39px;
+    margin-left: 30px;
+    -webkit-box-shadow:0px 0px 189px 51px rgba(67, 67, 67, 0.9);
+    -moz-box-shadow: 0px 0px 189px 51px rgba(3, 3, 3, 0.9);
+    box-shadow: 0px 0px 189px 51px rgba(0, 0, 0, 0.9);
+        
+ }
+
+ .food p{
+    margin-left: 5px;
+    align-content: center;}
+
+
+    .food:hover{
+        
+        transform: scale(1.1);
+        -webkit-box-shadow:0px 0px 105px 45px rgba(255,157,46,0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(255,157,46,0.9);
+box-shadow: 0px 0px 105px 45px rgba(255,157,46,0.9);
+
+cursor: pointer;
+    }
+
+
+    ul li a{ 
+        color: black;
+        font-weight: 500;
+        margin-right: 50px;
+    }
+
+h4{
+ padding-left: 30%;
+}
+
+iframe{
+    width: auto;
+    height: auto;
+    }
+    
+    div .qt{
+        font-size: 30px; 
+        /* color: transparent;
+        -webkit-text-stroke: 1px rgb(0, 0, 0); */
+ 
+/* animation: forwards; */
+    }
+
+    
+
+    /* body {
+        min-height: 100vh;
+        display: flex;
+      } */
+      
+#ban{
+    padding-left: 3px;
+    margin-bottom: -30px;
+    width: 100px;
+    height: 90px;
+}
